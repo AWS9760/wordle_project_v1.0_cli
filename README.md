@@ -1,2 +1,37 @@
-# wordle_project_v1.0_cli
-A simple command-line Wordle game implemented with clean logic and user-friendly interaction, featuring guess validation, feedback hints, and replay functionality.
+# 🎯 Wordle CLI (v1.0)
+
+A simple and fun **Command-Line Wordle game** built in C++. This project replicates the popular Wordle gameplay in a terminal environment with clear logic, interactive feedback, and replay support.
+
+---
+
+## 📌 Features
+
+- 🎮 Classic Wordle gameplay (guess the hidden word)
+- 🔤 Input validation for correct word length
+- 🟩🟨⬜ Feedback system:
+  - 🟩 Correct letter & position
+  - 🟨 Correct letter, wrong position
+  - ⬜ Incorrect letter
+- 🔁 Replay option after each game
+- ⚡ Lightweight and fast (CLI-based)
+- 🧠 Clean implementation using OOP concepts
+
+---
+
+## 🛠️ Technologies Used
+
+- **Language:** C++
+- **Concepts:**
+  - Object-Oriented Programming (OOP)
+  - String manipulation
+  - Conditional logic
+  - Loops & control flow
+
+---
+
+## 🚀 How to Run
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/wordle_project_v1.0_cli.git
+cd wordle_project_v1.0_cli
