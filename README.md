@@ -35,3 +35,31 @@ A simple and fun **Command-Line Wordle game** built in C++. This project replica
 ```bash
 git clone https://github.com/your-username/wordle_project_v1.0_cli.git
 cd wordle_project_v1.0_cli
+```
+2. Compile the Code
+```bash
+g++ wordle.cpp -o wordle
+```
+3. Run the Game
+```bash
+./wordle
+```
+🎯 How to Play
+Guess the hidden word within limited attempts.
+After each guess, you’ll get feedback:
+🟩 Letter is correct and in the correct position
+🟨 Letter is correct but in the wrong position
+⬜ Letter is not in the word
+Use the hints to improve your next guess.
+Win by guessing the word correctly!
+📂 Project Structure
+```bash
+wordle_project_v1.0_cli/
+│── wordle.cpp     # Main game source code
+│── README.md      # Project documentation
+```
+💡 Future Improvements
+Add difficulty levels
+Load words from a file/dictionary
+Add color output for better UI
+Track score/history
