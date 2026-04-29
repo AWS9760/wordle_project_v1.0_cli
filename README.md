@@ -44,6 +44,9 @@ g++ wordle.cpp -o wordle
 ```bash
 ./wordle
 ```
+
+---
+
 ## 🎯 How to Play
 
 1. Guess the hidden word within limited attempts.
@@ -74,3 +77,13 @@ wordle_project_v1.0_cli/
 - Implement timer mode
 
 ---
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Abdul Wali**
