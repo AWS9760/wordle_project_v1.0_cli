@@ -44,22 +44,33 @@ g++ wordle.cpp -o wordle
 ```bash
 ./wordle
 ```
-🎯 How to Play
-Guess the hidden word within limited attempts.
-After each guess, you’ll get feedback:
-🟩 Letter is correct and in the correct position
-🟨 Letter is correct but in the wrong position
-⬜ Letter is not in the word
-Use the hints to improve your next guess.
-Win by guessing the word correctly!
-📂 Project Structure
+## 🎯 How to Play
+
+1. Guess the hidden word within limited attempts.
+2. After each guess, you’ll get feedback:
+   - 🟩 Letter is correct and in the correct position  
+   - 🟨 Letter is correct but in the wrong position  
+   - ⬜ Letter is not in the word  
+3. Use the hints to improve your next guess.
+4. Win by guessing the word correctly!
+
+---
+
+## 📂 Project Structure
+
 ```bash
 wordle_project_v1.0_cli/
 │── wordle.cpp     # Main game source code
 │── README.md      # Project documentation
 ```
-💡 Future Improvements
-Add difficulty levels
-Load words from a file/dictionary
-Add color output for better UI
-Track score/history
+---
+
+## 💡 Future Improvements
+
+- Add difficulty levels
+- Load words from a file/dictionary
+- Add color output for better UI
+- Track score/history
+- Implement timer mode
+
+---
