@@ -14,7 +14,7 @@ A simple and fun **Command-Line Wordle game** built in C++. This project replica
   - ⬜ Incorrect letter
 - 🔁 Replay option after each game
 - ⚡ Lightweight and fast (CLI-based)
-- 🧠 Clean implementation using OOP concepts
+- 🧠 Clean implementation 
 
 ---
 
@@ -22,7 +22,6 @@ A simple and fun **Command-Line Wordle game** built in C++. This project replica
 
 - **Language:** C++
 - **Concepts:**
-  - Object-Oriented Programming (OOP)
   - String manipulation
   - Conditional logic
   - Loops & control flow
